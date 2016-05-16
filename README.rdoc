@@ -23,7 +23,10 @@ Things you may want to cover:
 
 * ...
 * just added a comment on the new branch
+
 * will this move to prduction
+
+* this is change 4 for the fix
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
